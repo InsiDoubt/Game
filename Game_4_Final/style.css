@@ -1,0 +1,15 @@
+html,
+body {
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-size: 80;
+}
+
+canvas {
+  margin: 0 auto;
+}
+
+canvas {
+  display: block;
+}
